@@ -14,4 +14,4 @@ No statistically significant relationship was found between immigration rates an
 
 ## Files
 - `merge.do`: Data merging
-- `project.do`: Model estimation and robustness checks
+- `project.do`: Model estimation
